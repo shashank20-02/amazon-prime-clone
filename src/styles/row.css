@@ -1,0 +1,11 @@
+.__row{
+  margin: 10px 14px;
+  z-index: 1000;
+  height:26vh;
+}
+
+.__row h3{
+  color: white;
+  padding: 10px 0px;
+  padding-left: 2px;
+}

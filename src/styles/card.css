@@ -1,0 +1,9 @@
+.__row__item{
+    width: 290px;
+    height: 150px;
+    color: white;
+    background-color: rgba(142, 144, 149, 0.8);
+    border-radius: 4px;
+    overflow: hidden;
+}
+

@@ -1,0 +1,109 @@
+.__navbar{
+    background-image: linear-gradient(180deg,#1b2530 0,rgba(27,37,48,.85));
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 78px;
+    padding: 0px 2rem;
+}
+
+.__primelogo{
+    width: 150px;
+    height: 90px;
+    
+}
+
+.__left{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.__ulleft{
+    padding-left: 0;
+}
+
+.__ulleft ul{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 17px;
+}
+
+.__ulleft ul li:nth-child(1){
+    padding-left: 0;
+}
+
+.__ulleft ul li{
+    list-style-type: none;
+    padding: 10px;
+}
+
+.__ulleft ul li a{
+    text-decoration: none;
+    color: white;
+
+}
+
+.__arrow_icon{
+    display:flex;
+    align-items: center;
+}
+
+.__costum{
+    background-color: #0f79af;
+    padding: 8px 20px;
+    font-size: 17px;
+    font-weight:500;
+    border-radius: 5px;
+    color: rgba(242,244,246,.9);
+}
+
+.__costum:hover{
+    background-color: #209bd9;
+    transition: .2s linear;
+    cursor: pointer;
+}
+
+.__right{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.__ulright{
+    padding: 0px 10px;
+    padding-right: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.__btncust{
+    color: rgba(242, 244, 246, 0.573);
+}
+
+.__common{
+    padding: 0px 10px;
+    padding-right: 0;
+}
+
+.__btnc2{
+    display: flex;
+    align-items: center;
+}
+
+.__btnc3{
+    display: flex;
+    align-items: center;
+}
+
+.__btncn{
+    padding: 0px 10px;
+}
+
+.__btncust:hover{
+    cursor: pointer;
+    color: white;
+}
